@@ -11,7 +11,8 @@
 ## 🦊 About Me
 
 ```yaml
-name: Foxems | フォックスエムズ
+name: Foxems
+name_jp: フォックスエムズ
 location: Czech Republic 🇨🇿
 status: Making projects for personal use
 languages_spoken:
