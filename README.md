@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Foxems&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A8%E3%83%A0%E3%82%BA%20%F0%9F%A6%8A&descAlignY=60&descSize=24" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Czech+Republic+based+coder+%F0%9F%87%A8%F0%9F%87%BF;Always+learning%2C+always+building+%E2%9C%A8;Making+cool+projects+in+my+free+time+%F0%9F%8E%AE)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -11,8 +9,7 @@
 ## 🦊 About Me
 
 ```yaml
-name: Foxems
-name_jp: フォックスエムズ
+name: Foxems | フォックスエムズ
 location: Czech Republic 🇨🇿
 status: Making projects for personal use
 languages_spoken:
