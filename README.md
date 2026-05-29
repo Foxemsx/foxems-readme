@@ -1,144 +1,143 @@
 <div align="center">
 
-<img src="https://i.imgur.com/8Km9tLL.png" width="180" style="border-radius: 50%;" />
+```
+███████╗ ██████╗ ██╗  ██╗███████╗███╗   ███╗███████╗
+██╔════╝██╔═══██╗╚██╗██╔╝██╔════╝████╗ ████║██╔════╝
+█████╗  ██║   ██║ ╚███╔╝ █████╗  ██╔████╔██║███████╗
+██╔══╝  ██║   ██║ ██╔██╗ ██╔══╝  ██║╚██╔╝██║╚════██║
+██║     ╚██████╔╝██╔╝ ██╗███████╗██║ ╚═╝ ██║███████║
+╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝
+```
 
-# ✨ Hey, I'm Foxy ✨
+### `< building things for fun />` 🦊
 
-### 💻 Developer • 🎮 Gamer • 🐧 Linux Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=C%23+Developer;Linux+%2F+CachyOS+Enjoyer;UI+%2F+UX+Design+Fan;Building+Cool+Projects+%F0%9F%9A%80" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+cool+projects+in+free+time+%F0%9F%8E%AE;Czech+Republic+based+coder+%F0%9F%87%A8%F0%9F%87%BF;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 🌌 About Me
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## 🦊 About Me
 
 ```yaml
-Name: Foxy
-Location: Czech Republic
-OS: Windows 11 + CachyOS
-Languages:
-  - C#
-  - JavaScript
-  - Python
-  - Lua
-Learning:
-  - Electron
-  - Linux Development
-  - UI/UX Design
-Hobbies:
-  - Gaming
-  - Linux Tweaking
-  - App Design
-  - AI Projects
-````
+name: Foxems
+location: Czech Republic 🇨🇿
+status: Building personal projects for fun
+time: Free time warrior ⚔️
+languages_spoken:
+  - English 🇬🇧
+  - Czech 🇨🇿
+  - Russian (a bit) 🇷🇺
+currently:
+  - 🔨 Making projects for personal use
+  - 🌱 Always exploring new tech
+  - 🎮 Having fun with code
+```
+
+<br clear="right"/>
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Languages
-
-![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Lua](https://img.shields.io/badge/Lua-111827?style=for-the-badge\&logo=lua\&logoColor=2C2D72)
-
-## 🛠️ Frameworks & Tools
-
-![Electron](https://img.shields.io/badge/Electron-111827?style=for-the-badge\&logo=electron\&logoColor=9FEAF9)
-![NodeJS](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=node.js\&logoColor=5FA04E)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-![Blender](https://img.shields.io/badge/Blender-111827?style=for-the-badge\&logo=blender\&logoColor=F5792A)
-![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
-
----
-
-# 📊 GitHub Stats
+### 💻 Programming Languages
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</div>
+
+### ⚙️ Frameworks & Tools
+
+<div align="center">
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Foxems&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&ring_color=FF6B35" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Foxems&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 
 </div>
-
----
-
-# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxems&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=ffffff&layout=compact" />
 
 </div>
-
----
-
-# 🌐 Socials
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=5865F2" />
-</a>
-
-<a href="https://instagram.com">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
-
-</div>
-
----
-
-# ⚡ Cool Extras
-
-## 🖥️ Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=8b5cf6\&style=for-the-badge)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Foxems&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
 
 ---
 
-# 🌑 Favorite Setup
+## 💬 Random Dev Quote
 
-```yaml
-OS: CachyOS
-Shell: Fish
-Editor: VSCode
-Theme: Tokyo Night
-Browser: Zen Browser
-Terminal: Kitty
-```
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Foxems/Foxems/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+> *"I build things for fun — but coffee keeps the fun going!"* 🦊
+
+<br/>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/foxemsx)
+
+<br/>
+
+*If you enjoy any of my projects or found something useful, a coffee would be much appreciated!* ❤️
+
+</div>
 
 ---
 
 <div align="center">
 
-## ✨ Thanks for visiting ✨
+![Profile Views](https://komarev.com/ghpvc/?username=Foxems&label=Profile%20views&color=FF6B35&style=flat)
 
-"Code. Create. Improve. Repeat."
+**Thanks for stopping by! Happy coding! 🚀**
 
 </div>
