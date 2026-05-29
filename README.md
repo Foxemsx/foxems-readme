@@ -1,42 +1,28 @@
 <div align="center">
 
-```
-███████╗ ██████╗ ██╗  ██╗███████╗███╗   ███╗███████╗
-██╔════╝██╔═══██╗╚██╗██╔╝██╔════╝████╗ ████║██╔════╝
-█████╗  ██║   ██║ ╚███╔╝ █████╗  ██╔████╔██║███████╗
-██╔══╝  ██║   ██║ ██╔██╗ ██╔══╝  ██║╚██╔╝██║╚════██║
-██║     ╚██████╔╝██╔╝ ██╗███████╗██║ ╚═╝ ██║███████║
-╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Foxems&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A8%E3%83%A0%E3%82%BA%20%F0%9F%A6%8A&descAlignY=60&descSize=24" width="100%"/>
 
-### `< building things for fun />` 🦊
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+cool+projects+in+free+time+%F0%9F%8E%AE;Czech+Republic+based+coder+%F0%9F%87%A8%F0%9F%87%BF;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Czech+Republic+based+coder+%F0%9F%87%A8%F0%9F%87%BF;Always+learning%2C+always+building+%E2%9C%A8;Making+cool+projects+in+my+free+time+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 🦊 About Me
 
 ```yaml
-name: Foxems
+name: Foxems | フォックスエムズ
 location: Czech Republic 🇨🇿
-status: Building personal projects for fun
-time: Free time warrior ⚔️
+status: Making projects for personal use
 languages_spoken:
   - English 🇬🇧
   - Czech 🇨🇿
   - Russian (a bit) 🇷🇺
 currently:
-  - 🔨 Making projects for personal use
+  - 🔨 Building things for personal use
   - 🌱 Always exploring new tech
   - 🎮 Having fun with code
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -69,58 +55,11 @@ currently:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Foxems&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&ring_color=FF6B35" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Foxems&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
-
-</div>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxems&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=ffffff&layout=compact" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Foxems&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Foxems/Foxems/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## ☕ Support My Work
 
 <div align="center">
 
-> *"I build things for fun — but coffee keeps the fun going!"* 🦊
+> *"Coffee-powered code."* 🦊
 
 <br/>
 
@@ -136,8 +75,8 @@ currently:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Foxems&label=Profile%20views&color=FF6B35&style=flat)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**Thanks for stopping by! Happy coding! 🚀**
+![Profile Views](https://komarev.com/ghpvc/?username=Foxems&label=Profile%20views&color=FF6B35&style=flat)
 
 </div>
