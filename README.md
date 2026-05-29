@@ -1,34 +1,59 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Foxems&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A8%E3%83%A0%E3%82%BA%20%F0%9F%A6%8A&descAlignY=62&descSize=22&descColor=ffffff" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Foxems&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%82%A8%E3%83%A0%E3%82%BA%20%F0%9F%A6%8A&descAlignY=60&descSize=24" width="100%"/>
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐%20foxems.vercel.app-%23000000.svg?style=for-the-badge&logoColor=white)](https://foxems.vercel.app)
+&nbsp;
+[![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-%23FFDD00.svg?style=for-the-badge&logoColor=black)](https://buymeacoffee.com/foxemsx)
+
+<br/>
 
 </div>
 
 ---
 
-## 🦊 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+<br/>
+
+<div align="left">
+
+## 󠁟🦊 &nbsp;Who am I?
 
 ```yaml
-name: Foxems | フォックスエムズ
-location: Czech Republic 🇨🇿
-status: Making projects for personal use
-languages_spoken:
-  - English 🇬🇧
-  - Czech 🇨🇿
-  - Russian (a bit) 🇷🇺
-currently:
-  - 🔨 Building things for personal use
-  - 🌱 Always exploring new tech
-  - 🎮 Having fun with code
+┌─────────────────────────────────────────┐
+│                                         │
+│   name      :  Foxems                   │
+│   name_jp   :  フォックスエムズ         │
+│   location  :  Czech Republic 🇨🇿       │
+│                                         │
+│   languages :  English  🇬🇧             │
+│                Czech    🇨🇿             │
+│                Russian  🇷🇺  (a bit)    │
+│                                         │
+│   status    :  Building stuff for fun   │
+│   passion   :  Code · Tech · Games 🎮   │
+│                                         │
+└─────────────────────────────────────────┘
 ```
 
----
+</div>
 
-## 🛠️ Tech Stack
+<br/>
 
-### 💻 Programming Languages
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+<br/>
+
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
+
+### 💻 Languages
+
+<br/>
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,11 +63,11 @@ currently:
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-</div>
+<br/>
 
 ### ⚙️ Frameworks & Tools
 
-<div align="center">
+<br/>
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
@@ -51,13 +76,19 @@ currently:
 
 </div>
 
----
+<br/>
 
-## ☕ Support My Work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+
+<br/>
+
+## ☕ &nbsp;Support
 
 <div align="center">
 
-> *"Coffee-powered code."* 🦊
+<br/>
+
+*If you like what I build — a coffee goes a long way* 🦊
 
 <br/>
 
@@ -65,16 +96,16 @@ currently:
 
 <br/>
 
-*If you enjoy any of my projects or found something useful, a coffee would be much appreciated!* ❤️
-
 </div>
 
----
+<br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Foxems&label=Profile%20views&color=FF6B35&style=flat)
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
